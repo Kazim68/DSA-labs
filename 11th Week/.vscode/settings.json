@@ -1,0 +1,9 @@
+{
+  "files.associations": {
+    "queue": "cpp",
+    "xutility": "cpp",
+    "type_traits": "cpp",
+    "vector": "cpp",
+    "xstring": "cpp"
+  }
+}
