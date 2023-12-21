@@ -202,7 +202,7 @@ class Stack{
 
         T pop(){
             T *temp = list->head->data;
-            list->RemoveFront();
+            list->RemoveLast();
         }
 };
 
